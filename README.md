@@ -1,1 +1,1 @@
-# bitrix_custom_interfaces
+other_js.php подключается в init.php

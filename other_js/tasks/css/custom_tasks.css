@@ -1,0 +1,22 @@
+.task-detail-sidebar-item-videocall{
+    display: none;
+}
+
+.task-detail-sidebar-item-value .task-detail-sidebar-item-value-delete {
+    width: 16px;
+    height: 12px;
+    background: url(/bitrix/js/tasks/css/images/media.png) no-repeat 5px -410px;
+    border-bottom: none;
+    vertical-align: middle;
+    display: none;
+    opacity: .3;
+}
+
+.task-detail-sidebar-item-value-delete:hover {
+    opacity: .7;
+}
+
+.task-detail-sidebar-item-value:hover .task-detail-sidebar-item-value-delete {
+    display: inline-block;
+}
+
